@@ -16,7 +16,8 @@ The Sports League Management Platform streamlines operations for leagues, coache
 ✅ Communication & Messaging – In-app messaging, bulk emails, and SMS notifications.
 ✅ Financial & Reporting Tools – Track payments, sponsorships, and generate financial reports.
 
-🔹 Developed by: [Your Name / Company]
+
+🔹 Developed by: [Deven Sitapoara]
 🔹 Tech Stack: TALL (Tailwind, Alpine.js, Laravel, Livewire)
 
 ## 🎯 Features
