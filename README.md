@@ -10,11 +10,11 @@
 
 The Sports League Management Platform streamlines operations for leagues, coaches, players, and parents by providing an all-in-one solution for:
 
-✅ User Registration & Enrollment – Secure sign-ups, payment processing, and waitlist management.
-✅ Team & Player Management – Automated team assignments, roster customization, and attendance tracking.
-✅ Game Scheduling & Notifications – Smart scheduling with conflict detection and calendar sync.
-✅ Communication & Messaging – In-app messaging, bulk emails, and SMS notifications.
-✅ Financial & Reporting Tools – Track payments, sponsorships, and generate financial reports.
+- ✅ User Registration & Enrollment – Secure sign-ups, payment processing, and waitlist management.
+- ✅ Team & Player Management – Automated team assignments, roster customization, and attendance tracking.
+- ✅ Game Scheduling & Notifications – Smart scheduling with conflict detection and calendar sync.
+- ✅ Communication & Messaging – In-app messaging, bulk emails, and SMS notifications.
+- ✅ Financial & Reporting Tools – Track payments, sponsorships, and generate financial reports.
 
 
 - 🔹 Developed by: [Deven Sitapoara]
